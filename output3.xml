@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<activity_summary>
+    <time_span>
+        <start_date>2017-01-01</start_date>
+        <end_date>2017-01-29</end_date>
+    </time_span>
+    <customer_list>
+        <customer>
+            <customer_name>Syreeta Hendricks</customer_name>
+            <address>
+                <street_address>193 Spruce Road </street_address>
+                <city>Mahopac</city>
+                <state>NY</state>
+                <zip_code>10541</zip_code>
+            </address>
+            <order_value>9279.9557</order_value>
+            <bicycles_purchased>5</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Zina Bonner</customer_name>
+            <address>
+                <street_address>9312 8th Street </street_address>
+                <city>San Lorenzo</city>
+                <state>CA</state>
+                <zip_code>94580</zip_code>
+            </address>
+            <order_value>1132.965</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Toya Pratt</customer_name>
+            <address>
+                <street_address>485 San Pablo Drive </street_address>
+                <city>Long Beach</city>
+                <state>NY</state>
+                <zip_code>11561</zip_code>
+            </address>
+            <order_value>2082.1435</order_value>
+            <bicycles_purchased>6</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Delila Hamilton</customer_name>
+            <address>
+                <street_address>7451 East James Ave. </street_address>
+                <city>Palos Verdes Peninsula</city>
+                <state>CA</state>
+                <zip_code>90274</zip_code>
+            </address>
+            <order_value>10869.9637</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Ivonne Yang</customer_name>
+            <address>
+                <street_address>7359 North Lake View St. </street_address>
+                <city>El Paso</city>
+                <state>TX</state>
+                <zip_code>79930</zip_code>
+            </address>
+            <order_value>2371.1624</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Jaimee Day</customer_name>
+            <address>
+                <street_address>7534 Whitemarsh Ave. </street_address>
+                <city>Poughkeepsie</city>
+                <state>NY</state>
+                <zip_code>12601</zip_code>
+            </address>
+            <order_value>1172.9724</order_value>
+            <bicycles_purchased>3</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Boyce Burks</customer_name>
+            <address>
+                <street_address>879 Harvey Dr. </street_address>
+                <city>Sunnyside</city>
+                <state>NY</state>
+                <zip_code>11104</zip_code>
+            </address>
+            <order_value>1600.093</order_value>
+            <bicycles_purchased>5</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Christia Carson</customer_name>
+            <address>
+                <street_address>220 Orchard Street </street_address>
+                <city>Helotes</city>
+                <state>TX</state>
+                <zip_code>78023</zip_code>
+            </address>
+            <order_value>3658.181</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Herta Rollins</customer_name>
+            <address>
+                <street_address>287 1st Drive </street_address>
+                <city>Mountain View</city>
+                <state>CA</state>
+                <zip_code>94043</zip_code>
+            </address>
+            <order_value>4464.6642</order_value>
+            <bicycles_purchased>7</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Kanesha Hudson</customer_name>
+            <address>
+                <street_address>8293 Gartner Drive </street_address>
+                <city>Oakland</city>
+                <state>CA</state>
+                <zip_code>94603</zip_code>
+            </address>
+            <order_value>225.891</order_value>
+            <bicycles_purchased>1</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Mable Pratt</customer_name>
+            <address>
+                <street_address>254 SW. Temple Street </street_address>
+                <city>Coachella</city>
+                <state>CA</state>
+                <zip_code>92236</zip_code>
+            </address>
+            <order_value>6912.1715</order_value>
+            <bicycles_purchased>3</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Virgina Berg</customer_name>
+            <address>
+                <street_address>804 South Purple Finch Drive </street_address>
+                <city>Valley Stream</city>
+                <state>NY</state>
+                <zip_code>11580</zip_code>
+            </address>
+            <order_value>5154.1467</order_value>
+            <bicycles_purchased>6</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Ashlee Pena</customer_name>
+            <address>
+                <street_address>966 Highland St. </street_address>
+                <city>Whitestone</city>
+                <state>NY</state>
+                <zip_code>11357</zip_code>
+            </address>
+            <order_value>17305.9384</order_value>
+            <bicycles_purchased>7</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Sunshine Rosario</customer_name>
+            <address>
+                <street_address>1 Chestnut Lane </street_address>
+                <city>Jamaica</city>
+                <state>NY</state>
+                <zip_code>11432</zip_code>
+            </address>
+            <order_value>2789.9907</order_value>
+            <bicycles_purchased>1</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Lidia Ashley</customer_name>
+            <address>
+                <street_address>8436 Meadow St. </street_address>
+                <city>Baldwinsville</city>
+                <state>NY</state>
+                <zip_code>13027</zip_code>
+            </address>
+            <order_value>9704.9449</order_value>
+            <bicycles_purchased>6</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Hee Greer</customer_name>
+            <address>
+                <street_address>41 North Garfield Ave. </street_address>
+                <city>Selden</city>
+                <state>NY</state>
+                <zip_code>11784</zip_code>
+            </address>
+            <order_value>3509.973</order_value>
+            <bicycles_purchased>3</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Mia Delgado</customer_name>
+            <address>
+                <street_address>850 Wakehurst Drive </street_address>
+                <city>Coachella</city>
+                <state>CA</state>
+                <zip_code>92236</zip_code>
+            </address>
+            <order_value>527.984</order_value>
+            <bicycles_purchased>2</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Felicidad Golden</customer_name>
+            <address>
+                <street_address>9712 Coffee Ave. </street_address>
+                <city>Lockport</city>
+                <state>NY</state>
+                <zip_code>14094</zip_code>
+            </address>
+            <order_value>10794.3537</order_value>
+            <bicycles_purchased>5</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Toshia Cardenas</customer_name>
+            <address>
+                <street_address>878 Bayberry Street </street_address>
+                <city>Amsterdam</city>
+                <state>NY</state>
+                <zip_code>12010</zip_code>
+            </address>
+            <order_value>3935.968</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Leigh Burke</customer_name>
+            <address>
+                <street_address>7651 Creek St. </street_address>
+                <city>Schenectady</city>
+                <state>NY</state>
+                <zip_code>12302</zip_code>
+            </address>
+            <order_value>7022.9624</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Adam Henderson</customer_name>
+            <address>
+                <street_address>167 James St. </street_address>
+                <city>Los Banos</city>
+                <state>CA</state>
+                <zip_code>93635</zip_code>
+            </address>
+            <order_value>3695.4745</order_value>
+            <bicycles_purchased>3</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Reatha Perez</customer_name>
+            <address>
+                <street_address>9917 1st St. </street_address>
+                <city>Holbrook</city>
+                <state>NY</state>
+                <zip_code>11741</zip_code>
+            </address>
+            <order_value>13130.8288</order_value>
+            <bicycles_purchased>7</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Jenny Bell</customer_name>
+            <address>
+                <street_address>38 Crescent St. </street_address>
+                <city>Niagara Falls</city>
+                <state>NY</state>
+                <zip_code>14304</zip_code>
+            </address>
+            <order_value>511.4907</order_value>
+            <bicycles_purchased>1</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Hue Dalton</customer_name>
+            <address>
+                <street_address>7940 Oakwood Street </street_address>
+                <city>Apple Valley</city>
+                <state>CA</state>
+                <zip_code>92307</zip_code>
+            </address>
+            <order_value>799.992</order_value>
+            <bicycles_purchased>1</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Doreatha Ford</customer_name>
+            <address>
+                <street_address>9413 Ryan Ave. </street_address>
+                <city>Huntington</city>
+                <state>NY</state>
+                <zip_code>11743</zip_code>
+            </address>
+            <order_value>959.984</order_value>
+            <bicycles_purchased>2</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Laci Castro</customer_name>
+            <address>
+                <street_address>130 Birchpond Street </street_address>
+                <city>Saint Albans</city>
+                <state>NY</state>
+                <zip_code>11412</zip_code>
+            </address>
+            <order_value>1349.982</order_value>
+            <bicycles_purchased>2</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Carolyne Conley</customer_name>
+            <address>
+                <street_address>431 Lees Creek Drive </street_address>
+                <city>Floral Park</city>
+                <state>NY</state>
+                <zip_code>11001</zip_code>
+            </address>
+            <order_value>1692.5721</order_value>
+            <bicycles_purchased>3</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Lavonda Stephenson</customer_name>
+            <address>
+                <street_address>37 Birchwood Dr. </street_address>
+                <city>Bay Shore</city>
+                <state>NY</state>
+                <zip_code>11706</zip_code>
+            </address>
+            <order_value>2208.9745</order_value>
+            <bicycles_purchased>3</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Petronila Gallegos</customer_name>
+            <address>
+                <street_address>8053 Aspen St. </street_address>
+                <city>Howard Beach</city>
+                <state>NY</state>
+                <zip_code>11414</zip_code>
+            </address>
+            <order_value>2719.4764</order_value>
+            <bicycles_purchased>5</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Elnora Simpson</customer_name>
+            <address>
+                <street_address>7157 Shore Ave. </street_address>
+                <city>Bellmore</city>
+                <state>NY</state>
+                <zip_code>11710</zip_code>
+            </address>
+            <order_value>15416.1565</order_value>
+            <bicycles_purchased>9</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Lizette Ellison</customer_name>
+            <address>
+                <street_address>865 Sunbeam Street </street_address>
+                <city>Port Washington</city>
+                <state>NY</state>
+                <zip_code>11050</zip_code>
+            </address>
+            <order_value>836.9814</order_value>
+            <bicycles_purchased>2</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Klara Kim</customer_name>
+            <address>
+                <street_address>9660 Sherman Lane </street_address>
+                <city>Rome</city>
+                <state>NY</state>
+                <zip_code>13440</zip_code>
+            </address>
+            <order_value>1804.8565</order_value>
+            <bicycles_purchased>5</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Lonna Franks</customer_name>
+            <address>
+                <street_address>667 Brickyard Street </street_address>
+                <city>Ontario</city>
+                <state>CA</state>
+                <zip_code>91762</zip_code>
+            </address>
+            <order_value>712.4905</order_value>
+            <bicycles_purchased>1</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Delmar Wise</customer_name>
+            <address>
+                <street_address>8355 Kingston Avenue </street_address>
+                <city>Lockport</city>
+                <state>NY</state>
+                <zip_code>14094</zip_code>
+            </address>
+            <order_value>15439.9468</order_value>
+            <bicycles_purchased>6</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Elvia Cardenas</customer_name>
+            <address>
+                <street_address>8 Paris Hill St. </street_address>
+                <city>Massapequa</city>
+                <state>NY</state>
+                <zip_code>11758</zip_code>
+            </address>
+            <order_value>6978.7151</order_value>
+            <bicycles_purchased>6</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Venessa Frost</customer_name>
+            <address>
+                <street_address>621 West School Rd. </street_address>
+                <city>Scarsdale</city>
+                <state>NY</state>
+                <zip_code>10583</zip_code>
+            </address>
+            <order_value>1279.0627</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Annis Sanchez</customer_name>
+            <address>
+                <street_address>4 Edgewater Road </street_address>
+                <city>Los Angeles</city>
+                <state>CA</state>
+                <zip_code>90008</zip_code>
+            </address>
+            <order_value>4269.9572</order_value>
+            <bicycles_purchased>5</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Milagros Weber</customer_name>
+            <address>
+                <street_address>7591 Glendale Ave. </street_address>
+                <city>Harlingen</city>
+                <state>TX</state>
+                <zip_code>78552</zip_code>
+            </address>
+            <order_value>7130.5405</order_value>
+            <bicycles_purchased>7</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Tonisha Fowler</customer_name>
+            <address>
+                <street_address>9270 Valley View Lane </street_address>
+                <city>Huntington Station</city>
+                <state>NY</state>
+                <zip_code>11746</zip_code>
+            </address>
+            <order_value>9399.965</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Alejandrina Hodges</customer_name>
+            <address>
+                <street_address>7598 Shadow Brook St. </street_address>
+                <city>Deer Park</city>
+                <state>NY</state>
+                <zip_code>11729</zip_code>
+            </address>
+            <order_value>3447.2278</order_value>
+            <bicycles_purchased>8</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Caleb England</customer_name>
+            <address>
+                <street_address>649 Marvon St. </street_address>
+                <city>Pleasanton</city>
+                <state>CA</state>
+                <zip_code>94566</zip_code>
+            </address>
+            <order_value>7339.4195</order_value>
+            <bicycles_purchased>9</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Gilberto Sanders</customer_name>
+            <address>
+                <street_address>186 Roehampton Ave. </street_address>
+                <city>Woodside</city>
+                <state>NY</state>
+                <zip_code>11377</zip_code>
+            </address>
+            <order_value>4497.0048</order_value>
+            <bicycles_purchased>6</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Ara Vazquez</customer_name>
+            <address>
+                <street_address>343 2nd Court </street_address>
+                <city>San Carlos</city>
+                <state>CA</state>
+                <zip_code>94070</zip_code>
+            </address>
+            <order_value>4466.6452</order_value>
+            <bicycles_purchased>6</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Consuela Collier</customer_name>
+            <address>
+                <street_address>338 S. Holly Avenue </street_address>
+                <city>North Tonawanda</city>
+                <state>NY</state>
+                <zip_code>14120</zip_code>
+            </address>
+            <order_value>15455.625</order_value>
+            <bicycles_purchased>8</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Barbra Dickerson</customer_name>
+            <address>
+                <street_address>8424 E. Rockcrest Dr. </street_address>
+                <city>Ridgecrest</city>
+                <state>CA</state>
+                <zip_code>93555</zip_code>
+            </address>
+            <order_value>7520.0371</order_value>
+            <bicycles_purchased>7</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Verda Gilbert</customer_name>
+            <address>
+                <street_address>54 Hillcrest Drive </street_address>
+                <city>East Northport</city>
+                <state>NY</state>
+                <zip_code>11731</zip_code>
+            </address>
+            <order_value>6349.3635</order_value>
+            <bicycles_purchased>4</bicycles_purchased>
+        </customer>
+        <customer>
+            <customer_name>Sheryl Chase</customer_name>
+            <address>
+                <street_address>388 Cedar Avenue </street_address>
+                <city>Floral Park</city>
+                <state>NY</state>
+                <zip_code>11001</zip_code>
+            </address>
+            <order_value>17086.9343</order_value>
+            <bicycles_purchased>7</bicycles_purchased>
+        </customer>
+    </customer_list>
+    <product_list>
+        <new_product>
+            <product_name>Ritchey Timberwolf Frameset - 2016</product_name>
+            <brand>Ritchey</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Ritchey Timberwolf Frameset - 2016</product_name>
+            <brand>Ritchey</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Wednesday Frameset - 2016</product_name>
+            <brand>Surly</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Wednesday Frameset - 2016</product_name>
+            <brand>Surly</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Fuel EX 8 29 - 2016</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Fuel EX 8 29 - 2016</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Heller Shagamaw Frame - 2016</product_name>
+            <brand>Heller</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Heller Shagamaw Frame - 2016</product_name>
+            <brand>Heller</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Ice Cream Truck Frameset - 2016</product_name>
+            <brand>Surly</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Ice Cream Truck Frameset - 2016</product_name>
+            <brand>Surly</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>3</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Slash 8 27.5 - 2016</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Slash 8 27.5 - 2016</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Conduit+ - 2016</product_name>
+            <brand>Trek</brand>
+            <category>Electric Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>4</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Straggler 650b - 2016</product_name>
+            <brand>Surly</brand>
+            <category>Cyclocross Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 21D - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Cruiser 1 (24-Inch) - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Cruiser 1 (24-Inch) - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Moto 1 - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>5</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Moto 1 - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 7D EQ - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Pure Cycles Vine 8-Speed - 2016</product_name>
+            <brand>Pure Cycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Pure Cycles Vine 8-Speed - 2016</product_name>
+            <brand>Pure Cycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Pure Cycles William 3-Speed - 2016</product_name>
+            <brand>Pure Cycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Pure Cycles William 3-Speed - 2016</product_name>
+            <brand>Pure Cycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Cruiser 1 (24-Inch) - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Girl's Hawaii 1 (16-inch) - 2015/2016</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Girl's Hawaii 1 (16-inch) - 2015/2016</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>3</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Girl's Hawaii 1 (20-inch) - 2015/2016</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 21D - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 7D - 2015/2016</product_name>
+            <brand>Electra</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>4</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 7D EQ - 2016</product_name>
+            <brand>Electra</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Karate Monkey 27.5+ Frameset - 2017</product_name>
+            <brand>Surly</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek X-Caliber 8 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>4</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Ice Cream Truck Frameset - 2017</product_name>
+            <brand>Surly</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>4</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Farley Alloy Frameset - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Wednesday Frameset - 2017</product_name>
+            <brand>Surly</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Haro Flightline One ST - 2017</product_name>
+            <brand>Haro</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Haro Flightline Two 26 Plus - 2017</product_name>
+            <brand>Haro</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Stache 5 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>4</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Haro Shift R3 - 2017</product_name>
+            <brand>Haro</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Fuel EX 5 27.5 Plus - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>6</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Fuel EX 9.8 27.5 Plus - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Haro SR 1.2 - 2017</product_name>
+            <brand>Haro</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Remedy 9.8 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Mountain Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>5</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Emonda S 4 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Emonda S 4 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Domane SL 6 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Silque SLR 7 Women's - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Silque SLR 7 Women's - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Silque SLR 8 Women's - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Steamroller - 2017</product_name>
+            <brand>Surly</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Steamroller - 2017</product_name>
+            <brand>Surly</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Steamroller - 2017</product_name>
+            <brand>Surly</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Ogre Frameset - 2017</product_name>
+            <brand>Surly</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Surly Ogre Frameset - 2017</product_name>
+            <brand>Surly</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Domane SL Disc Frameset - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Domane SL Disc Frameset - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Domane S 6 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Domane S 6 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Domane SLR 6 Disc - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Madone 9.2 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Domane S 5 Disc - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Road Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles ElectroLite - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Electric Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Powerfly 8 FS Plus - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Electric Bikes</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>5</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Boone 7 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Cyclocross Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Boone 7 - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Cyclocross Bicycles</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Boone Race Shop Limited - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Cyclocross Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>3</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 7D - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Revolutions 24 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Revolutions 24 - Girl's - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Revolutions 24 - Girl's - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Cruz 3 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Cruz 7 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Amsterdam Original 3i - 2015/2017</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Atlas X-Type - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Biscayne Tandem 7 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Brickell Tandem 7 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Cruiser Lux 1 - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Cruiser Lux Fat Tire 1 Ladies - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Girl's Hawaii 1 16" - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Biscayne Tandem CB - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Boardwalk (24-inch Wheels) - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Brickell Tandem CB - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Amsterdam Fashion 7i Ladies' - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Amsterdam Original 3i Ladies' - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Cruisers Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Boy's Kickster - 2015/2017</product_name>
+            <brand>Trek</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Boy's Kickster - 2015/2017</product_name>
+            <brand>Trek</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Lil Kitt'n - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Haro Downtown 16 - 2017</product_name>
+            <brand>Haro</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Haro Downtown 16 - 2017</product_name>
+            <brand>Haro</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Precaliber 12 Girls - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Precaliber 16 Boys - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Precaliber 16 Girls - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Trek Precaliber 24 (21-Speed) - Girls - 2017</product_name>
+            <brand>Trek</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Haro Shredder Pro 20 - 2017</product_name>
+            <brand>Haro</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Haro Shredder Pro 20 - 2017</product_name>
+            <brand>Haro</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Girl's Hawaii 1 16" - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>3</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Girl's Hawaii 1 16" - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Moto 3i (20-inch) - Boy's - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Savannah 3i (20-inch) - Girl's - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Savannah 3i (20-inch) - Girl's - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Straight 8 3i (20-inch) - Boy's - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Sugar Skulls 1 (20-inch) - Girl's - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>3</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie 7D (20-inch) - Boys' - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Children Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 7D - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 7D - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Electra Townie Original 7D - 2017</product_name>
+            <brand>Electra</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Rowlett Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Streamway 3 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Streamway - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>4</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Streamway 7 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Cruz 3 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Santa Cruz Bikes</store_name>
+                <units_sold>3</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Cruz 3 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>4</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Cruz 3 - Women's - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>1</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Cruz 7 - Women's - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>4</units_sold>
+            </store_sales>
+        </new_product>
+        <new_product>
+            <product_name>Sun Bicycles Drifter 7 - 2017</product_name>
+            <brand>Sun Bicycles</brand>
+            <category>Comfort Bicycles</category>
+            <store_sales>
+                <store_name>Baldwin Bikes</store_name>
+                <units_sold>2</units_sold>
+            </store_sales>
+        </new_product>
+    </product_list>
+    <store_list>
+        <store>
+            <store_name>Santa Cruz Bikes</store_name>
+            <store_city>Santa Cruz</store_city>
+            <employee_count>4</employee_count>
+            <customers_served>13</customers_served>
+            <customer_sales>
+                <customer_name>Zina Bonner</customer_name>
+                <customer_sales_value>1132.965</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Delila Hamilton</customer_name>
+                <customer_sales_value>10869.9637</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Herta Rollins</customer_name>
+                <customer_sales_value>4464.6642</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Kanesha Hudson</customer_name>
+                <customer_sales_value>225.891</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Mable Pratt</customer_name>
+                <customer_sales_value>6912.1715</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Mia Delgado</customer_name>
+                <customer_sales_value>527.984</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Adam Henderson</customer_name>
+                <customer_sales_value>3695.4745</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Hue Dalton</customer_name>
+                <customer_sales_value>799.992</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Lonna Franks</customer_name>
+                <customer_sales_value>712.4905</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Annis Sanchez</customer_name>
+                <customer_sales_value>4269.9572</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Caleb England</customer_name>
+                <customer_sales_value>7339.4195</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Ara Vazquez</customer_name>
+                <customer_sales_value>4466.6452</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Barbra Dickerson</customer_name>
+                <customer_sales_value>7520.0371</customer_sales_value>
+            </customer_sales>
+        </store>
+        <store>
+            <store_name>Baldwin Bikes</store_name>
+            <store_city>Baldwin</store_city>
+            <employee_count>3</employee_count>
+            <customers_served>31</customers_served>
+            <customer_sales>
+                <customer_name>Syreeta Hendricks</customer_name>
+                <customer_sales_value>9279.9557</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Toya Pratt</customer_name>
+                <customer_sales_value>2082.1435</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Jaimee Day</customer_name>
+                <customer_sales_value>1172.9724</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Boyce Burks</customer_name>
+                <customer_sales_value>1600.093</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Virgina Berg</customer_name>
+                <customer_sales_value>5154.1467</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Ashlee Pena</customer_name>
+                <customer_sales_value>17305.9384</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Sunshine Rosario</customer_name>
+                <customer_sales_value>2789.9907</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Lidia Ashley</customer_name>
+                <customer_sales_value>9704.9449</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Hee Greer</customer_name>
+                <customer_sales_value>3509.973</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Felicidad Golden</customer_name>
+                <customer_sales_value>10794.3537</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Toshia Cardenas</customer_name>
+                <customer_sales_value>3935.968</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Leigh Burke</customer_name>
+                <customer_sales_value>7022.9624</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Reatha Perez</customer_name>
+                <customer_sales_value>13130.8288</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Jenny Bell</customer_name>
+                <customer_sales_value>511.4907</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Doreatha Ford</customer_name>
+                <customer_sales_value>959.984</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Laci Castro</customer_name>
+                <customer_sales_value>1349.982</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Carolyne Conley</customer_name>
+                <customer_sales_value>1692.5721</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Lavonda Stephenson</customer_name>
+                <customer_sales_value>2208.9745</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Petronila Gallegos</customer_name>
+                <customer_sales_value>2719.4764</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Elnora Simpson</customer_name>
+                <customer_sales_value>15416.1565</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Lizette Ellison</customer_name>
+                <customer_sales_value>836.9814</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Klara Kim</customer_name>
+                <customer_sales_value>1804.8565</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Delmar Wise</customer_name>
+                <customer_sales_value>15439.9468</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Elvia Cardenas</customer_name>
+                <customer_sales_value>6978.7151</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Venessa Frost</customer_name>
+                <customer_sales_value>1279.0627</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Tonisha Fowler</customer_name>
+                <customer_sales_value>9399.965</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Alejandrina Hodges</customer_name>
+                <customer_sales_value>3447.2278</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Gilberto Sanders</customer_name>
+                <customer_sales_value>4497.0048</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Consuela Collier</customer_name>
+                <customer_sales_value>15455.625</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Verda Gilbert</customer_name>
+                <customer_sales_value>6349.3635</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Sheryl Chase</customer_name>
+                <customer_sales_value>17086.9343</customer_sales_value>
+            </customer_sales>
+        </store>
+        <store>
+            <store_name>Rowlett Bikes</store_name>
+            <store_city>Rowlett</store_city>
+            <employee_count>3</employee_count>
+            <customers_served>4</customers_served>
+            <customer_sales>
+                <customer_name>Bobbie Foster</customer_name>
+                <customer_sales_value>2112.2957</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Ivonne Yang</customer_name>
+                <customer_sales_value>2371.1624</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Christia Carson</customer_name>
+                <customer_sales_value>3658.181</customer_sales_value>
+            </customer_sales>
+            <customer_sales>
+                <customer_name>Milagros Weber</customer_name>
+                <customer_sales_value>7130.5405</customer_sales_value>
+            </customer_sales>
+        </store>
+    </store_list>
+</activity_summary>
