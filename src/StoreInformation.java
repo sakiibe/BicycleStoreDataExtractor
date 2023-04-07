@@ -13,10 +13,10 @@ public class StoreInformation {
         this.connection = connection;
     }
     /**
-     * Fetch the product information from the specified time period
+     * Fetch the store information from the specified time period
      * @param document -- XML document instance
-     * @param startDate -- Start date for customer information
-     * @param endDate -- End date for customer information
+     * @param startDate -- Start date for the summary
+     * @param endDate -- End date for the summary
      * @return --  The root element of the XML subtree
      */
     public Element fetch(Document document, String startDate, String endDate) {

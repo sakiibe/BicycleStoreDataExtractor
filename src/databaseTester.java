@@ -12,7 +12,7 @@ public class databaseTester {
 
     public static void main(String[] args) {
 
-        // Get my identity information
+        // Get identity information
 
         Properties identity = new Properties();
         String username = "";
@@ -30,12 +30,10 @@ public class databaseTester {
             return;
         }
 
-        // Do the actual database work now
 
         Connection connect = null;
         Statement statement = null;
         ResultSet resultSet = null;
-
 
         try {
             //establish connection to database
@@ -57,7 +55,6 @@ public class databaseTester {
             System.out.println("Enter XML file name");
             String outputFile= sc.nextLine();
             bicycleStore.generateXmlOutput(startDate,endDate,outputFile);
-//            bicycleStore.generateXmlOutput("2017-01-01", "2017-01-28", "output2.xml");
 
 
             connect.close();

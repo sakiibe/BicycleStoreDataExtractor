@@ -17,8 +17,8 @@ public class ProductInformation {
     /**
      * Fetch the product information from the specified time period
      * @param document -- XML document instance
-     * @param startDate -- Start date for product information
-     * @param endDate -- End date for product information
+     * @param startDate -- Start date for the summary
+     * @param endDate -- End date for the summary
      * @return --  The root element of the XML subtree
      */
 
